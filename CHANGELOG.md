@@ -1,7 +1,7 @@
-# QuizTower – Update-Historie
+# 📋 QuizTower — Changelog
 
-Hier werden freigegebene Änderungsnotizen zu QuizTower gesammelt. Zu jeder Version gehören ihr Datum, ihr Status und ein Link zum entsprechenden GitHub-Release.
+Explore QuizTower’s published release notes. Each entry includes the version, date, release status, and a link to the corresponding GitHub release.
 
-Noch keine Release-Einträge in dieser Übersicht. Die Projektvorstellung ist keine Versionsveröffentlichung.
+*No releases are listed here yet. The project introduction does not constitute a version release.*
 
-Release Candidates werden ausdrücklich als Vorabversionen gekennzeichnet. Ein Eintrag zu einer veröffentlichten Version wird erst nach Bestätigung des tatsächlichen Veröffentlichungsstands ergänzt.
+Release candidates are explicitly marked as **pre-releases**. Published release entries are added only after the actual release status has been verified.
