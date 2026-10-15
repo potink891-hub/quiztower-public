@@ -32,3 +32,9 @@ Published releases document confirmed updates. Their notes cover new features, i
 This is the public home for QuizTower’s project information and release notes.
 
 QuizTower’s source code remains private. This project is **not open source**.
+
+<!-- quiztower-current-release:start -->
+**Aktuelle Version / Current version: 0.1.0**
+
+[Release](https://github.com/potink891-hub/quiztower-public/releases/tag/v0.1.0) · [News](https://quiztower.at/news/update-0-1-0)
+<!-- quiztower-current-release:end -->
