@@ -1,24 +1,34 @@
-# QuizTower
+# 🏰 QuizTower
 
-QuizTower ist ein Quizspiel im Browser. Ein Tower besteht aus mehreren Etagen: Löse Aufgaben, sammle Punkte und erreiche die nächste Etage. Spiele allein, tritt gegen andere an oder stelle eigene Quiz zusammen.
+**Put your knowledge to the test. Climb the tower.**
 
-**[QuizTower öffnen](https://quiztower.at)**
+QuizTower is a browser-based quiz game where every floor brings new challenges. Solve questions, earn points, and work your way to the next level. Play solo, compete against others, or create your own quizzes.
 
-## Dieses Projekt verfolgen
+**[🎮 Play QuizTower](https://quiztower.at)**
 
-Hier findest du öffentliche Informationen zu QuizTower und seiner Weiterentwicklung:
+## 📣 Follow the project
 
-- [Releases](https://github.com/potink891-hub/quiztower-public/releases): Versionen und ihre Änderungen.
-- [Update-Historie](CHANGELOG.md): Übersicht der veröffentlichten Updates.
+Follow QuizTower’s development, explore recent changes, and see what each release brings:
 
-Du kannst dieses Repository über **Watch → Custom → Releases** abonnieren, um über neue Releases informiert zu werden.
+- **[Releases](https://github.com/potink891-hub/quiztower-public/releases)** — Version announcements and release notes.
+- **[Changelog](CHANGELOG.md)** — A history of published updates.
 
-## Versionen verstehen
+To get notified about new releases, subscribe using **Watch → Custom → Releases** on this repository.
 
-**Release Candidates** sind Vorabversionen. Sie tragen den Zusatz `-rc.N` und werden auf GitHub als Pre-release markiert. Ihre Beschreibung erklärt, was zur Prüfung vorgesehen ist und wo die Vorabversion verfügbar ist. Eine RC-Ankündigung bedeutet noch nicht, dass diese Version auf der öffentlichen Website läuft.
+## 🚀 Understanding releases
 
-**Veröffentlichte Versionen** beschreiben bestätigte Updates. Die Release-Notizen zeigen, was neu ist, was verbessert wurde und welche Fehler behoben wurden.
+### Release candidates
 
-## Über dieses Repository
+Release candidates are preview versions, identified by the suffix `-rc.N` and marked as **Pre-release** on GitHub.
 
-Dieses Repository enthält die öffentliche Projektvorstellung und Änderungsnotizen. Der Quellcode von QuizTower bleibt privat. Das Projekt ist nicht als Open Source veröffentlicht.
+Their release notes explain what is ready for testing and where the preview is available. A release candidate announcement does **not** mean that version is running on the public website.
+
+### Published releases
+
+Published releases document confirmed updates. Their notes cover new features, improvements, and bug fixes.
+
+## 📂 About this repository
+
+This is the public home for QuizTower’s project information and release notes.
+
+QuizTower’s source code remains private. This project is **not open source**.
